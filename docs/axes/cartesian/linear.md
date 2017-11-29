@@ -43,7 +43,7 @@ let chart = new Chart(ctx, {
         scales: {
             yAxes: [{
                 ticks: {
-                    suggestedMin: 50
+                    suggestedMin: 50,
                     suggestedMax: 100
                 }
             }]
